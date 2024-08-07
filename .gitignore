@@ -1,2 +1,4 @@
 youtubeAlertEnv/
 *.pyc
+src/.env
+src/url_list.csv
