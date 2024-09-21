@@ -17,6 +17,7 @@ oauthlib==3.2.2
 packaging==24.1
 PasteDeploy==3.1.0
 pefile==2023.2.7
+pillow==10.4.0
 plaster==1.1.2
 plaster-pastedeploy==1.0.1
 plyer==2.1.0
@@ -30,12 +31,14 @@ pyinstaller-hooks-contrib==2024.7
 pyparsing==3.1.2
 pyramid==2.0.2
 pyramid_jinja2==2.10.1
+pystray==0.19.5
 python-dotenv==1.0.1
 pywin32-ctypes==0.2.2
 requests==2.32.3
 requests-oauthlib==2.0.0
 rsa==4.9
 schedule==1.2.2
+six==1.16.0
 translationstring==1.4
 uritemplate==4.1.1
 urllib3==2.2.2
